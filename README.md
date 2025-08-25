@@ -1,4 +1,4 @@
-# 🎬 Sentiment Analysis with DistilBERT
+#  Sentiment Analysis with DistilBERT
 
 This project is a Sentiment Analysis App that classifies movie reviews as **Positive** or **Negative** using a fine-tuned **DistilBERT** model and a Gradio frontend.
 
