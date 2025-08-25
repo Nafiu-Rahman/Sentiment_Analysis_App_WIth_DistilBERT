@@ -4,7 +4,7 @@ This project is a Sentiment Analysis App that classifies movie reviews as **Posi
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The goal of this project is to create an interactive web application that allows users to input movie reviews and receive sentiment predictions in real-time. The model is fine-tuned on a publicly available movie review dataset (IMDb).
 
 - **Model:** DistilBERT (pretrained and fine-tuned)
@@ -13,7 +13,7 @@ The goal of this project is to create an interactive web application that allows
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repository
 ```bash
