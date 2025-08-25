@@ -33,10 +33,10 @@ python app.py
 
 ### Dependencies
 
--transformers==4.34.0
--torch==2.2.0
--gradio==3.49.0
--numpy
+**transformers==4.34.0**
+**torch==2.2.0**
+**gradio==3.49.0**
+**numpy**
 
 ### Live Demo
 
