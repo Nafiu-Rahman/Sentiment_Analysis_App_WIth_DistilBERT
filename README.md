@@ -21,32 +21,32 @@ git clone https://github.com/Nafiu-Rahman/Sentiment_Analysis_App_With_DistilBERT
 cd sentiment-analysis-distilbert
 ```
 
-###2. Install dependencies
+### 2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-###3. Run the app locally
+### 3. Run the app locally
 ```bash
 python app.py
 ```
 
-##Dependencies
+### Dependencies
 
-transformers==4.34.0
-torch==2.2.0
-gradio==3.49.0
-numpy
+-transformers==4.34.0
+-torch==2.2.0
+-gradio==3.49.0
+-numpy
 
-###Live Demo
+### Live Demo
 
 The app is deployed on Hugging Face Spaces:
 
 [Sentiment Analysis App](https://huggingface.co/spaces/N4F1U/sentiment-app)
 
-###Dataset
+### Dataset
 The model was fine-tuned on the IMDb movie review dataset.
 https://ai.stanford.edu/~amaas/data/sentiment/
 
-###License
+### License
 This project is open source and free to use for educational purposes.
