@@ -48,5 +48,10 @@ The app is deployed on Hugging Face Spaces:
 The model was fine-tuned on the IMDb movie review dataset.
 https://ai.stanford.edu/~amaas/data/sentiment/
 
+### Demo video
+https://youtu.be/zldKd4xRrGI
+
 ### License
 This project is open source and free to use for educational purposes.
+
+
