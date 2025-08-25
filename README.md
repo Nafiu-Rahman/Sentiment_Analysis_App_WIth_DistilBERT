@@ -18,7 +18,7 @@ The goal of this project is to create an interactive web application that allows
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Nafiu-Rahman/Sentiment_Analysis_App_With_DistilBERT
-cd sentiment-analysis-distilbert
+cd Sentiment_Analysis_App_With_DistilBERT
 ```
 
 ### 2. Install dependencies
